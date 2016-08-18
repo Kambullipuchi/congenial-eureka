@@ -1,0 +1,24 @@
+{
+  "name": "us25685-18aug15",
+  "version": "0.0.0",
+  "description": "$null",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kambullipuchi/congenial-eureka.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Kambullipuchi/congenial-eureka/issues"
+  },
+  "homepage": "https://github.com/Kambullipuchi/congenial-eureka#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-bootstrap": "^2.0.2",
+    "angular-ui-grid": "^3.2.6"
+  }
+}
